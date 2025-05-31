@@ -1,2 +1,2 @@
 # Machine-learning-assignments
-Machine learning class codes
+Denis Safari Ngatia - 23/06509
